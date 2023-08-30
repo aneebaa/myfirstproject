@@ -1,2 +1,2 @@
 # myfirstproject
-Great repositary.
+Great repositry.
