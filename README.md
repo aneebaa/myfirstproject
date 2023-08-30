@@ -1,2 +1,2 @@
 # myfirstproject
-Great repository names are short and memorable.
+Great repositary.
